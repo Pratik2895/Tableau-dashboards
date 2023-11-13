@@ -1,4 +1,4 @@
-# Tableaudashboard
+# Tableau dashboard
 
 # Tableau Dashboard Repository
 
